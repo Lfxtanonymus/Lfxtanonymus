@@ -5,7 +5,15 @@
 # 👋 Olá! Eu sou Luiz Fernando
 
 ### Desenvolvedor Full Stack em formação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github,vscode" />
+</p>
+## 📊 Estatísticas
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lfxtanonymus&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfxtanonymus&layout=compact&theme=tokyonight"/>
+</p>
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 🚀 Apaixonado por Desenvolvimento Web e Segurança da Informação
