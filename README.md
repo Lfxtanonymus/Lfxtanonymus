@@ -1,21 +1,24 @@
 # 👋 Olá! Eu sou Luiz Fernando
 
-## 💻 Desenvolvedor Full Stack em formação
+### Desenvolvedor Full Stack em formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento web.
+📚 Estudante de Análise e Desenvolvimento de Sistemas
 
+🚀 Apaixonado por Desenvolvimento Web e Segurança da Informação
+
+🎯 Em busca da primeira oportunidade como Desenvolvedor.
 ---
-
 ## 🚀 Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
-- Express
-- MySQL
-- Git
-- GitHub
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🟢 Node.js
+- 🚀 Express
+- 🗄️ MySQL
+- 🔀 Git
+- 🐙 GitHub
+- 💻 VS Code
 
 ---
 
