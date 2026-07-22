@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github,vscode" />
 </p>
+
 ## 📊 Estatísticas
 
 <p align="center">
