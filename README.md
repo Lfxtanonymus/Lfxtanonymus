@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Luiz Fernando" width="100%">
+  <img src="lfxtanonymus/banner.png" alt="Banner Luiz Fernando" width="100%">
 </p>
 # 👋 Olá! Eu sou Luiz Fernando
 
