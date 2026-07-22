@@ -1,0 +1,57 @@
+# 👋 Olá! Eu sou Luiz Fernando
+
+## 💻 Desenvolvedor Full Stack em formação
+
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento web.
+
+---
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+- APIs REST
+- Banco de Dados
+- Segurança da Informação
+- Desenvolvimento Full Stack
+
+---
+
+## 🍞 Projeto em destaque
+
+### Bakery Café
+
+Sistema Full Stack desenvolvido utilizando:
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- MySQL
+
+### O que fiz nesse projeto
+
+- Configurei o ambiente Node.js
+- Instalei dependências com npm
+- Corrigi erros de inicialização do servidor
+- Configurei o Express
+- Executei a API localmente
+- Compreendi a estrutura de um projeto Full Stack
+
+---
+
+## 📫 Contato
+
+Em breve...
