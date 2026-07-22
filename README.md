@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/bannerluiz.png" alt="Banner Luiz Fernando" width="100%">
+</p>
 # 👋 Olá! Eu sou Luiz Fernando
 
 ### Desenvolvedor Full Stack em formação
