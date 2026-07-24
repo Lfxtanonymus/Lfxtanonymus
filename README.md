@@ -10,9 +10,6 @@ Desenvolvedor Full Stack | Node.js | JavaScript | MySQL
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+JavaScript+%7C+MySQL;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo." />
 </p>
-# 👋 Olá! Eu sou Luiz Fernando
-
-### Desenvolvedor Full Stack em formação
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github,vscode" />
 </p>
