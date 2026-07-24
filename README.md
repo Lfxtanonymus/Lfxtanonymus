@@ -21,7 +21,13 @@ Desenvolvedor Full Stack | Node.js | JavaScript | MySQL
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfxtanonymus&layout=compact&theme=tokyonight"/>
 </p>
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas
+<h1 align="center">Olá! Eu sou Luiz Fernando 👋</h1>
+
+<h3 align="center">
+Desenvolvedor Full Stack | Node.js | JavaScript | MySQL
+</h3>
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 🚀 Apaixonado por Desenvolvimento Web e Segurança da Informação
 
@@ -76,4 +82,12 @@ Sistema Full Stack desenvolvido utilizando:
 
 ## 📫 Contato
 
-Em breve...
+📧 luizferferr46@gmail.com
+
+💼 LinkedIn
+
+www.linkedin.com/in/lfxtanonymus-luiz-fernando
+
+🐙 GitHub
+
+github.com/Lfxtanonymus
