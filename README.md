@@ -12,8 +12,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lfxtanonymus&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfxtanonymus&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lfxtanonymus&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfxtanonymus&layout=compact&theme=tokyonight"/>
 </p>
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas
