@@ -56,7 +56,7 @@ Desenvolvedor Full Stack | Node.js | JavaScript | MySQL
 
 ---
 
-## 🍞 Projeto em destaque
+## Projeto em destaque
 
 ## 🍞 Bakery Café
 
