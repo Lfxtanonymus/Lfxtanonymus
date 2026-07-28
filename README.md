@@ -58,9 +58,9 @@ Desenvolvedor Full Stack | Node.js | JavaScript | MySQL
 
 ## 🍞 Projeto em destaque
 
-### Bakery Café
+## 🍞 Bakery Café
 
-Sistema Full Stack desenvolvido utilizando:
+Sistema Full Stack desenvolvido com:
 
 - HTML
 - CSS
@@ -69,16 +69,20 @@ Sistema Full Stack desenvolvido utilizando:
 - Express
 - MySQL
 
-### O que fiz nesse projeto
+### Funcionalidades
 
-- Configurei o ambiente Node.js
-- Instalei dependências com npm
-- Corrigi erros de inicialização do servidor
-- Configurei o Express
-- Executei a API localmente
-- Compreendi a estrutura de um projeto Full Stack
+✅ Cadastro de produtos
 
----
+✅ Cadastro de pedidos
+
+✅ Rastreamento por telefone
+
+✅ Avaliações
+
+✅ API REST
+
+🔗 Repositório:
+https://github.com/Lfxtanonymus/bakery-cafe
 
 ## 📫 Contato
 
@@ -90,4 +94,6 @@ www.linkedin.com/in/lfxtanonymus-luiz-fernando
 
 🐙 GitHub
 
-github.com/Lfxtanonymus
+https://github.com/Lfxtanonymus
+
+📍 Espírito Santo - Brasil
